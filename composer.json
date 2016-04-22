@@ -1,0 +1,21 @@
+{
+    "name": "fs-ap/laravel_lang_ptbr",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Edilton",
+            "email": "ediltondanniken@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+
+    "require": {},
+
+        "autoload": {
+       
+        "psr-4": {
+            "LaravelLang\\": "src"
+        }
+    }
+    
+}
